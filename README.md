@@ -1,0 +1,2 @@
+# GharKaKhana-a-college-project
+Basically it's a place where we're connecting food providers on daily basis to the students living out of their home for studies or professionals for  their job..    We've made a provision for them to register their kitchens with all details and customers can order them directly.    If any Kitchen owner needs delivery boys, we've made that also, they can see registered folks in their respective cities..
